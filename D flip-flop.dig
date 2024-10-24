@@ -4,16 +4,6 @@
   <attributes/>
   <visualElements>
     <visualElement>
-      <elementName>D switch.dig</elementName>
-      <elementAttributes/>
-      <pos x="360" y="180"/>
-    </visualElement>
-    <visualElement>
-      <elementName>D switch.dig</elementName>
-      <elementAttributes/>
-      <pos x="620" y="180"/>
-    </visualElement>
-    <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
@@ -61,6 +51,16 @@
         </entry>
       </elementAttributes>
       <pos x="240" y="280"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D latch.dig</elementName>
+      <elementAttributes/>
+      <pos x="360" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>D latch.dig</elementName>
+      <elementAttributes/>
+      <pos x="620" y="180"/>
     </visualElement>
   </visualElements>
   <wires>
